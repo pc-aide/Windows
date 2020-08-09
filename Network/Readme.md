@@ -2,7 +2,7 @@
 
 ## Tools
 * Read file *.etl - Microsoft Message Analyzer (out of date 2019)
-  * [MD5 : 21F886538757F80024D1CA3CBE6A688  | MessageAnalyzer64.msi - 67MB](https://download.informer.com/win-1191544255-b8514e50-686630bb/messageanalyzer64.msi)
+  * [MD5 : 21F886538757F80024D1CA3CBE6A688  | MessageAnalyzer64.msi - (v4.0.8112.0) 67MB](https://download.informer.com/win-1191544255-b8514e50-686630bb/messageanalyzer64.msi)
 
 ## Route
 ````Batch
