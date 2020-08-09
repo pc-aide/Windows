@@ -17,3 +17,6 @@ REM route ADD destination_network MASK subnet_mask  gateway_ip metric_cost
   ````
   [<img src="https://i.imgur.com/tGaMIoZ.png">](https://i.imgur.com/tGaMIoZ.png)
   [<img src="https://i.imgur.com/ZjxrUxE.png">](https://i.imgur.com/ZjxrUxE.png)
+  ````PowerShell
+  netsh trace stop
+  ````
