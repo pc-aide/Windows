@@ -13,5 +13,7 @@ REM route ADD destination_network MASK subnet_mask  gateway_ip metric_cost
 1) Trace
   ````PowerShell
   netsh trace start capture=yes TraceFile=C:\Temp\MyTraceWeb.etl
-  #Reproduce your environment
+  #Reproduce the issue
   ````
+  [<img src="https://i.imgur.com/tGaMIoZ.png">](https://i.imgur.com/tGaMIoZ.png)
+  [<img src="https://i.imgur.com/ZjxrUxE.png">](https://i.imgur.com/ZjxrUxE.png)
