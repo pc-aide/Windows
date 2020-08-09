@@ -8,3 +8,9 @@ route print
 ````Batch
 REM route ADD destination_network MASK subnet_mask  gateway_ip metric_cost
 ````
+
+## netsh
+1) ````PowerShell
+  netsh trace start capture=yes TraceFile=C:\Temp\MyTraceWeb.etl
+  #Reproduce your environment
+  ````
