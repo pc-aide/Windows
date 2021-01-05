@@ -20,3 +20,9 @@ get-cimClassName | get-member
 [<img src="https://i.imgur.com/Xwk9byR.png">](https://i.imgur.com/Xwk9byR.png)
 
 ---
+
+## Count
+````powershell
+(get-cimClass | select cimClassName | measure).Count
+````
+[<img src="https://i.imgur.com/UcPiZ6m.png">](https://i.imgur.com/UcPiZ6m.png)
