@@ -1,4 +1,4 @@
-# CimInstance
+# CimClass
 
 ## List CimClassName
 ````powershell
