@@ -8,4 +8,15 @@ get-cimClassName | more
 
 ---
 
-## 
+## Get-member
+* MemberType
+  * Method
+  * ScriptProperty
+    * CimClassName
+````powershell
+get-cimClassName | get-member
+````
+[<img src="https://i.imgur.com/YTIpuP2.png">](https://i.imgur.com/YTIpuP2.png)
+[<img src="https://i.imgur.com/Xwk9byR.png">](https://i.imgur.com/Xwk9byR.png)
+
+---
