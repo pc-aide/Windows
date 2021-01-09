@@ -1,5 +1,8 @@
 # Sequencer
 
+## Prereq
+1) Windows 10 or higher
+
 ## Steps
 ### 01 - ADK 2004
 * URL
