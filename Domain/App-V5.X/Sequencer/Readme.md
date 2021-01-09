@@ -1,10 +1,15 @@
 # Sequencer
 
+## Acronym
+* ADK - Assessment & Deployment Kit
+
 ## Prereq
 * For 2004:
   * Windows 10 or higher
-* For
-  * Windows 8.1
+* For Windows 8.1:
+  * ADK for Windows 8.1
+* For Windows 7:
+ * ADK for Windows 7
 
 ## Steps
 ### 01 - ADK 2004
