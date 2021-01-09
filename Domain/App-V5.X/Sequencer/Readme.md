@@ -1,7 +1,10 @@
 # Sequencer
 
 ## Prereq
-1) Windows 10 or higher
+* For 2004:
+  * Windows 10 or higher
+* For
+  * Windows 8.1
 
 ## Steps
 ### 01 - ADK 2004
