@@ -1,0 +1,8 @@
+=============               =====                       ====            ====
+Name.Feature=               Name=                       cmd=            O/P=
+=============               =====                       ====            ====
+rsat-ad-adminCenter         Active Directory            dsa.msc         https://imgur.com/TZfyhjt
+GPMC                        Group Policy Management     gpmc.msc        https://imgur.com/Zc5rQwm
+rsat-ad-tools               ADSI Edit                   adsiEdit.msc    https://imgur.com/pDSy30G
+rsat-dhcp                   DHCP                        dhcpMgmt.msc    https://imgur.com/swDfIin
+rsat-remoteAccess-mgmt      Remote Access GUI...        rrasMgmt.msc    https://imgur.com/hjT8S3I
