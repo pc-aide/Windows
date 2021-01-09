@@ -1,0 +1,75 @@
+Yesterday I posted an article on listing members of the local administrators group with PowerShell and Get-WmiObject. PowerShell 3.0 offers an additional way using the CIM cmdlets. The CIM cmdlets query the same WMI information, except instead of using the traditional RPC/DCOM connection, these cmdlets utilize PowerShell’s remoting endpoint so they are much more firewall friendly and a little faster in my testing. I’ll be covering these cmdlets over time as PowerShell v3 is released.
+
+The code I wrote yesterday can be re-used with only a few modifications. We can still easily get the group object.
+
+
+PS C:\> Get-CimInstance Win32_Group -filter "Name='Administrators'" -computername 'Quark'
+
+SID Name Caption Domain
+--- ---- ------- ------
+S-1-5-32-544 Administrators QUARK\Administrators QUARK
+
+We can connect either by a computername or a CIMSession. We still need to get associated objects. There is a cmdlet called Get-CIMAssociatedInstance which you could use like this:
+
+
+Get-CimInstance Win32_Group -filter "Name='Administrators'" -computername 'Quark' | Get-CimAssociatedInstance -ComputerName 'Quark'
+
+However, this will return all associations and I have not been able to find a way with this cmdlet to limit results to user and group objects as I did with WMI. However, we can still use the Associators Of query.
+
+
+PS C:\> $computer='Quark'
+PS C:\> $query="Associators of {Win32_Group.Domain='$computer',Name='Administrators'} where Role=GroupComponent"
+PS C:\> Get-CimInstance -Query $query -ComputerName $computer
+
+Name Caption AccountType SID Domain
+---- ------- ----------- --- ------
+Administrator QUARK\Admini... 512 S-1-5-21-139... QUARK
+Jeff QUARK\Jeff 512 S-1-5-21-139... QUARK
+
+These objects have some slightly different property names so to tweak the output I had to make a few changes. Here’s my complete demo script.
+
+
+#requires -version 3.0
+
+#use CIM to list members of the local admin group
+
+[cmdletbinding()]
+Param([string]$computer=$env:computername)
+
+$query="Associators of {Win32_Group.Domain='$computer',Name='Administrators'} where Role=GroupComponent"
+
+write-verbose "Querying $computer"
+write-verbose $query
+
+Get-CIMInstance -query $query -computer $computer |
+Select @{Name="Member";Expression={$_.Caption}},Disabled,LocalAccount,
+@{Name="Type";Expression={([regex]"User|Group").matches($_.Class)[0].Value}},
+@{Name="Computername";Expression={$_.ComputerName.ToUpper()}}
+
+Here’s the code in action.
+
+
+PS C:\> C:\scripts\Get-CIMLocalAdmin.ps1 -Verbose
+VERBOSE: Querying QUARK
+VERBOSE: Associators of {Win32_Group.Domain='QUARK',Name='Administrators'}
+where Role=GroupComponent
+VERBOSE: Perform operation 'Query CimInstances' with following parameters,
+''namespaceName' = root\cimv2,'queryExpression' = Associators of
+{Win32_Group.Domain='QUARK',Name='Administrators'} where
+Role=GroupComponent,'queryDialect' = WQL'.
+
+Member : QUARK\Administrator
+Disabled : False
+LocalAccount : True
+Type : User
+Computername : QUARK
+
+Member : QUARK\Jeff
+Disabled : False
+LocalAccount : True
+Type : User
+Computername : QUARK
+
+It wouldn’t be much to turn this into a function, although all computers will need to be running Powershell 3.0. Download Get-CIMLocalAdmin and try it out for yourself.
+
+Disclaimer: All of this is based on pre-released software. No guarantees that it will work when PowerShell 3.0 officially ships.
