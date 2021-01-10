@@ -3,8 +3,8 @@
 ## Application Virtualization
 Available only: 
  * Windows 10
-  * Enterprise 
-  * Education
+   * Enterprise 
+   * Education
  * Windows 8
  * Windows 7
 
