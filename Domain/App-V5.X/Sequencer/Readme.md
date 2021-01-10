@@ -9,6 +9,7 @@
   * Windows 10 or higher
 * For Windows 7-8.1:
   * MOP 2015
+   * Windows 8.1 -> Sequencer 5.0 SP2 (5.0.3361.0)
 
 ## Steps
 ### 01 - ADK 2004
