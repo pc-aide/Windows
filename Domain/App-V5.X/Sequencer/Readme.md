@@ -2,12 +2,13 @@
 
 ## Acronym
 * ADK - Assessment & Deployment Kit
+* MOP - Microsoft Optimization Pack
 
 ## Prereq
 * For 2004:
   * Windows 10 or higher
 * For Windows 8.1:
-  * Desktop Optimization Pack for Software Assureance 2013 !?
+  * MOP 2015
 * For Windows 7:
  * ADK for Windows 7
 
