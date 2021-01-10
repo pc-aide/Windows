@@ -7,7 +7,7 @@
 * For 2004:
   * Windows 10 or higher
 * For Windows 8.1:
-  * ADK for Windows 8.1
+  * Desktop Optimization Pack for Software Assureance 2013 !?
 * For Windows 7:
  * ADK for Windows 7
 
