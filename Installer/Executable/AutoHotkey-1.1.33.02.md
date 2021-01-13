@@ -82,5 +82,50 @@ return
 
 ---
 
+## Install
+* silent
+	* `AutoHotkey104306_Install.exe /S` "S", uppercase
+* Custom InstallDir
+	* `AutoHotkey104306_Install.exe /S /D=C:\Program Files\Foo`
+
+---
+
+## InstallDir
+* `C:\Program Files\AutoHotkey\AutoHotkey`
+
+[<img src="https://i.imgur.com/QtgeKYt.png">](https://i.imgur.com/QtgeKYt.png)
+
+---
+
+## Env var
+### System
+1) `%ProgramData%\Microsoft\Windows\Start Menu\Programs\AutoHotkey`
+
+[<img src="https://i.imgur.com/xO6UHii.png">](https://i.imgur.com/xO6UHii.png)
+
+---
+
 ## Process
 1) AutoHotkey
+
+---
+
+## Traces
+### Registries
+1) `HKLM:\Software\AutoHotkey\`
+
+[<img src="https://i.imgur.com/T15Ijfa.png">](https://i.imgur.com/T15Ijfa.png)
+
+2) `HKLM:\Software\Classes\.ahk`
+
+[<img src="https://i.imgur.com/aoqVWas.png">](https://i.imgur.com/aoqVWas.png)
+
+3) `HKLM:\Software\Classess\Applications\AutoHotkey.exe`
+
+[<img src="https://i.imgur.com/1x7oxsK.png">](https://i.imgur.com/1x7oxsK.png)
+
+---
+
+## Uninstall
+* silent
+	* `"C:\Program Files\AutoHotkey\uninst.exe" /S`
