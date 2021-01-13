@@ -1,5 +1,8 @@
 # AutoHotkey-1.1.33.02
 
+## Doc
+* [Installer Options](https://www.autohotkey.com/docs/Program.htm#install)
+
 ## Acronym
 * DDL - Download Direct Link
 
@@ -83,11 +86,22 @@ return
 
 ---
 
-## Install
-* silent
-	* `AutoHotkey104306_Install.exe /S` "S", uppercase
-* Custom InstallDir
-	* `AutoHotkey104306_Install.exe /S /D=C:\Program Files\Foo`
+## Switch
+* Silent:
+	* `AutoHotkey110800_Install.exe /S` - /S - uppercase
+* InstallDir
+	* `AutoHotkey110800_Install.exe /S /D=C:\Program Files\AutoHotkey`
+* Version
+	* `/A32` or `/ANSI`: ANSI 32-bit.
+	* `/U64` or `/x64`: Unicode 64-bit (only valid on 64-bit systems).
+	* `/U32`: Unicode 32-bit.
+	* e.g: `AutoHotkey110800_Install.exe /S /A32`
+* Uninstall: To silently uninstall AutoHotkey, pass the /Uninstall parameter to Installer.ahk. For example:
+	* `"C:\Program Files\AutoHotkey\AutoHotkey.exe" "C:\Program Files\AutoHotkey\Installer.ahk" /Uninstall`
+* For AutoHotkey versions older than 1.1.08.00, use uninst.exe /S. For example:
+	* `"C:\Program Files\AutoHotkey\uninst.exe" /S`
+* Extract
+	* `AutoHotkey110903_Install.exe /D=F:\AutoHotkey /E`
 
 ---
 
