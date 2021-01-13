@@ -9,7 +9,7 @@
 ## DDL
 * https://www.autohotkey.com/download/ahk-install.exe
 * https://www.autohotkey.com/download/ahk.zip
-
+* it exist too a portable
 ---
 
 ## SRC
