@@ -30,6 +30,7 @@
 ## Extensions
 1) *.ahk - put your code here, & after run it
   * e.g. - SCCM1702.ahk
+  * hotkey -> windows + z:
 ````ahw
 ;=================================================================================================================
 ;PowerShell
