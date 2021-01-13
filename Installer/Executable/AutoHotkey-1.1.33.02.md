@@ -22,8 +22,9 @@
 
 ---
 
-## Extaller (*.exe)
+## Installer (*.exe)
 * Auto run (like eclipse, an IDE)
+* Maybe Nullsoft !?
 
 ---
 
