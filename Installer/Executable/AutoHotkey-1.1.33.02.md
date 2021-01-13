@@ -18,7 +18,7 @@
 ---
 
 ## License
-* GPlv2
+* GPLv2
 
 ---
 
