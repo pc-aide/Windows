@@ -6,7 +6,7 @@ innounp (Unpkacker)
 ---
 
 ## Intro
-* 
+* innounp, the Inno Setup Unpacker
 
 ---
 
@@ -25,4 +25,4 @@ innounp (Unpkacker)
 
 ---
 
-##
+## install_script.iss
