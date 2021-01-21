@@ -11,8 +11,12 @@
 1) /q --quiet with no GUI
 2) /norestart --The installer never restarts the computer after the installation.
    * `msiExec /i *.msi /q /NoRestart`
-3) /x --Uninstall PackageID
+3) /x --Uninstall PackageID|ProductCode
    * `msiExec /x {<PackageID>} /q`
+4) /l --log:
+  * /l *.log --std
+  * /l* *.log --"*" - Wildcard, log all information except for the v and x options
+  * /l*vx --To include the v(verbose)and x(extra debugging) options
 
 ---
 
