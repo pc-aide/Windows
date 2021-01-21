@@ -13,7 +13,7 @@
 ---
 
 ## Switch
-1) 
+1) -q --quiet, no GUI
 
 ---
 
