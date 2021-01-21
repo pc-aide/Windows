@@ -1,7 +1,7 @@
 # msi
 
 ## Doc
-* [std-installer-command-line-options](https://docs.microsoft.com/en-us/windows/win32/msi/standard-installer-command-line-options)
+* [command-line-options](https://docs.microsoft.com/en-us/windows/win32/msi/command-line-options)
 
 ---
 
