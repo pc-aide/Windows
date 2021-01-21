@@ -1,5 +1,13 @@
 # msi
 
+---
+
+## Switch
+1) -q --quiet with no GUI
+2) 
+
+---
+
 ## Env Var
 ### Local Machine
 | n  | Variable                                                  | Windows 10                                               |
