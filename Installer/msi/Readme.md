@@ -6,8 +6,13 @@
 ---
 
 ## Switch
+0) /i --install
+  * `msiExec /i *.msi /q`
 1) /q --quiet with no GUI
 2) /norestart --The installer never restarts the computer after the installation.
+  * `msiExec /i *.msi /q /NoRestart`
+3) /x --Uninstall PackageID
+  * `msiExec /x {<PackageID> /q}`
 
 ---
 
