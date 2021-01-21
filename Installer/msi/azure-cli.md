@@ -5,6 +5,7 @@
 
 ## URL
 * https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli
+  * size: 212 MB [installed]
 
 ## DDL
 * https://azcliprod.blob.core.windows.net/msi/azure-cli-2.18.0.msi
@@ -18,3 +19,4 @@
 
 ## Install
 * `start-process msiExec -argumentList "/i azure-cli-2.18.0.msi /q"`
+
