@@ -6,8 +6,8 @@
 ---
 
 ## Switch
-1) -q --quiet with no GUI
-2) 
+1) /q --quiet with no GUI
+2) /norestart --The installer never restarts the computer after the installation.
 
 ---
 
