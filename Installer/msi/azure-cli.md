@@ -20,3 +20,10 @@
 ## Install
 * `start-process msiExec -argumentList "/i azure-cli-2.18.0.msi /q"`
 
+---
+
+## Test
+* New cmdlet in PowerShell
+  * `az`
+
+[<img src="https://i.imgur.com/XgXqkdf.png">](https://i.imgur.com/XgXqkdf.png)
