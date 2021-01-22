@@ -62,7 +62,7 @@
 ---
 
 ## WMI or cimInstance
-* `get-wmiObject win32_product | ? {$_.name -lie "*azure*"}`
+* `get-wmiObject win32_product | ? {$_.name -like "*azure*"}`
 
 [<img src="https://i.imgur.com/fxEiKYb.png">](https://i.imgur.com/fxEiKYb.png)
 
