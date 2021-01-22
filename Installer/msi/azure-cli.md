@@ -38,6 +38,22 @@
 
 ---
 
+## Architecture
+* multi architecture (32bits & 64 bits) 
+* e.g
+  1) cli-{32,64}.exe
+  
+[<img src="https://i.imgur.com/V57LECX.png">](https://i.imgur.com/V57LECX.png)
+[<img src="https://i.imgur.com/UFNckfR.png">](https://i.imgur.com/UFNckfR.png)
+
+  2) python (32 bits)
+
+[<img src="https://i.imgur.com/BCeXPfr.png">](https://i.imgur.com/BCeXPfr.png)
+
+  3) 
+
+---
+
 ## Test
 
 * New cmdlet in PowerShell
