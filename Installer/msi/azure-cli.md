@@ -68,6 +68,13 @@
 
 ---
 
+## python
+* ver: 3.6.8
+
+[<img src="https://i.imgur.com/J2SArkn.png">](https://i.imgur.com/J2SArkn.png)
+
+---
+
 ## Traces
 ### Files-01 - %windir%\installer
 * `%windir%\Installer\<Random_AlphaNumeric>.msi`
