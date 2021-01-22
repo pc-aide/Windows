@@ -20,7 +20,7 @@
 ---
 
 ## InstallDir
-* %ProgramFiles(x86)%\Microsoft SDKs Azure\CLI2\
+* %ProgramFiles(x86)%\Microsoft SDKs\Azure\CLI2\
 
 [<img src="https://i.imgur.com/nf8wVat.png">](https://i.imgur.com/nf8wVat.png)
 
@@ -32,9 +32,9 @@
 
 [<img src="https://i.imgur.com/iOKBF2E.png">](https://i.imgur.com/iOKBF2E.png)
 
-### CLI
+### CLI | Time: ~30s
 * Work in Powershell & cmd
-* `start-process msiExec -argumentList "/i azure-cli-2.18.0.msi /q"`
+* `start-process msiExec -argumentList "/i azure-cli-2.18.0.msi /q /NoRestart"`
 
 ---
 
