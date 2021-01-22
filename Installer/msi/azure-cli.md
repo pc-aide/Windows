@@ -41,6 +41,10 @@
 ## Architecture
 * multi architecture (32bits & 64 bits) 
 * e.g
+  0) installer msi - N/A
+  
+[<img src="https://i.imgur.com/GGVpvv8.png">](https://i.imgur.com/GGVpvv8.png)
+  
   1) cli-{32,64}.exe
   
 [<img src="https://i.imgur.com/V57LECX.png">](https://i.imgur.com/V57LECX.png)
