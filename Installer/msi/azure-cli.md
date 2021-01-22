@@ -13,7 +13,8 @@
 ---
 
 ## Switch
-1) -q --quiet, no GUI
+1) /q --quiet, no GUI
+2) /NoRestart, program will never restart after the install
 
 ---
 
