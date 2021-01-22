@@ -57,6 +57,14 @@
   * `az login`
 
 [<img src="https://i.imgur.com/R2WrVDZ.png">](https://i.imgur.com/R2WrVDZ.png)
+[<img src="https://i.imgur.com/mTJjy7L.png">](https://i.imgur.com/mTJjy7L.png)
+
+---
+
+## WMI or cimInstance
+* `get-wmiObject win32_product | ? {$_.name -lie "*azure*"}`
+
+[<img src="https://i.imgur.com/fxEiKYb.png">](https://i.imgur.com/fxEiKYb.png)
 
 ---
 
