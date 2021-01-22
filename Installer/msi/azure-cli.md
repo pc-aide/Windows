@@ -86,7 +86,7 @@
 #### Files
 1) %ProgramFiles(x86)\Micosoft SDKs\Azure
 
-[<img src="https://i.imgur.com/WREV1Ut.png
+[<img src="https://i.imgur.com/WREV1Ut.png">](https://i.imgur.com/WREV1Ut.png)
 
 #### Registries
 1) 
