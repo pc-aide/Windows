@@ -70,7 +70,7 @@
 
 ## Traces
 ### Files-01 - %windir%\installer
-* %windir%\Installer\<Random>.msi
+* %windir%\Installer\\<Random>.msi
 
 [<img src="https://i.imgur.com/MDCtUEt.png">](https://i.imgur.com/MDCtUEt.png)
 
