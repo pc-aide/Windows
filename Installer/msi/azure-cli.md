@@ -75,6 +75,13 @@
 
 ---
 
+## Azure cli.png
+* https://github.com/David-Summers/Azure-Design/blob/master/PNG_Icons-All/Azure%20CLI.png
+
+[<img src="https://raw.githubusercontent.com/David-Summers/Azure-Design/master/PNG_Icons-All/Azure%20CLI.png">](https://raw.githubusercontent.com/David-Summers/Azure-Design/master/PNG_Icons-All/Azure%20CLI.png)
+
+---
+
 ## Traces
 ### Files-01 - %windir%\installer
 * `%windir%\Installer\<Random_AlphaNumeric>.msi`
