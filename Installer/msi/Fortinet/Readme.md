@@ -21,3 +21,26 @@
 1) FortiClient
 2) FortiClient Endpoint Management Server (EMS)
 3) FortiClient VPN
+
+---
+
+## FortinetClientSetup_6.4.2.1580_x64
+* files
+  * mst | size: ~68KB
+  * msi | size: 154 MB
+  
+[<img src="https://i.imgur.com/FvUiA7R.png">](https://i.imgur.com/FvUiA7R.png)
+
+---
+
+## Product Language codes
+|n|Language       |Code|
+|-|---------------|----|
+|1|English (US)   |1033|
+|2|French (France)|1036|
+|3|Russian        |1049|
+|4|French - Canada|3084|
+
+---
+
+## 
