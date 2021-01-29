@@ -105,8 +105,12 @@
 
 ---
 
-## Azure cli.png
+## Icons
 * https://github.com/David-Summers/Azure-Design/blob/master/PNG_Icons-All/Azure%20CLI.png
+
+[<img src="https://i.imgur.com/3HHZL8n.png">](https://i.imgur.com/3HHZL8n.png)
+
+[<img src="https://www.computerhope.com/jargon/w/windows.gif">](https://www.computerhope.com/jargon/w/windows.gif)
 
 [<img src="https://raw.githubusercontent.com/David-Summers/Azure-Design/master/PNG_Icons-All/Azure%20CLI.png">](https://raw.githubusercontent.com/David-Summers/Azure-Design/master/PNG_Icons-All/Azure%20CLI.png)
 
