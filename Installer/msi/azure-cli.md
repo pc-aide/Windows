@@ -82,7 +82,7 @@
 [<img src="https://i.imgur.com/mTJjy7L.png">](https://i.imgur.com/mTJjy7L.png)
 
  1) proxy (set ...)
-    * 
+   * 
  2) Fire-wall
 
 ---
