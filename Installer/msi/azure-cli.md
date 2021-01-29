@@ -81,7 +81,9 @@
 [<img src="https://i.imgur.com/R2WrVDZ.png">](https://i.imgur.com/R2WrVDZ.png)
 [<img src="https://i.imgur.com/mTJjy7L.png">](https://i.imgur.com/mTJjy7L.png)
 
-### Proxy | Firewall
+---
+
+## Proxy | Firewall
 1. proxy (set ...)
   * 
 2. Firewall (Juniper, Cisco, Fortinet, etc)
