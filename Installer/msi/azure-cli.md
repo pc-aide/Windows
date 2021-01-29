@@ -75,9 +75,15 @@
 
 3) login
   * `az login`
+  * `az login --debug`
+  * `az login --verbose`
 
 [<img src="https://i.imgur.com/R2WrVDZ.png">](https://i.imgur.com/R2WrVDZ.png)
 [<img src="https://i.imgur.com/mTJjy7L.png">](https://i.imgur.com/mTJjy7L.png)
+
+ 1) proxy (set ...)
+  * 
+ 2) Fire-wall
 
 ---
 
