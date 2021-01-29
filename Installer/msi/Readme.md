@@ -31,6 +31,7 @@
 | 6  | %PROGRAMFILES(X86)%                                       | C:\\Program Files (x86)                                  |
 | 7  | %SystemRoot%\\System32\\LogFiles\\Firewall\\pFirewall.log | C:\\Windows\\System32\\LogFiles\\Firewall\\pFirewall.log |
 | 8  | %Public%\\Desktop\\                                       | C:\\Users\\Public\\Desktop\\                             |
+| 9  | %Windir%\\                                                | C:\\Windows\                                             |
 
 ### Active Setup (%UserName%)
 | n  | Variable                                                  | Windows 10                                               |
