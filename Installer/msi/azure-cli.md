@@ -83,9 +83,9 @@
 
 ### Proxy | Firewall
 1) proxy (set ...)
-  * 
+   * 
 2) Firewall (Juniper, Cisco, Fortinet, etc)
-  * 
+   * 
 
 ---
 
