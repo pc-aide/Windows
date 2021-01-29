@@ -122,5 +122,7 @@
 
 [<img src="https://i.imgur.com/WREV1Ut.png">](https://i.imgur.com/WREV1Ut.png)
 
-#### Registries
-1) 
+2) %UserProfile%\.azure\
+
+[<img src="https://i.imgur.com/jZPbkJ5.png">](https://i.imgur.com/jZPbkJ5.png)
+
