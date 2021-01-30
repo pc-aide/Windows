@@ -43,7 +43,7 @@
 
 ## Install
 * Silent:
-  * `.exe /allUsers /S`
+  * `.exe /allusers /S`
 
 ---
 
