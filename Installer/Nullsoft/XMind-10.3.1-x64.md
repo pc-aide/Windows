@@ -15,7 +15,7 @@
   
 ---
 
-## Notepad Installer.exe
+## Notepad Setup.exe
 * http://nsis.sf.net
 
 [<img src="https://i.imgur.com/gCSu1wU.png">](https://i.imgur.com/gCSu1wU.png)
