@@ -113,6 +113,15 @@
 
 ---
 
+## Settings
+* keyMap: ctrl + alt + p
+* `Partager l'analyse`
+ * CheckBox: "Envoyer automatiquement les statistiques d'utilisation (AUCUNE DONNES PRIVEE)"
+ 
+[<img src="https://i.imgur.com/Q3ncNiW.png">](https://i.imgur.com/Q3ncNiW.png)
+
+---
+
 ## Process
 * xmind.exe - 
 
