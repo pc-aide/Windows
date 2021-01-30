@@ -22,6 +22,15 @@
 
 ---
 
+## Publisher
+* XMind Ltd.
+
+[<img src="https://i.imgur.com/6NYufJo.png">](https://i.imgur.com/6NYufJo.png)
+[<img src="https://i.imgur.com/pfFYixS.png">](https://i.imgur.com/pfFYixS.png)
+[<img src="https://i.imgur.com/3jRDkAy.png">](https://i.imgur.com/3jRDkAy.png)
+
+---
+
 ## Prog lang
 * Java
 
