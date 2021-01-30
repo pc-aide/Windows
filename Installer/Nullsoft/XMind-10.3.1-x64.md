@@ -168,7 +168,7 @@
 1) `%AppData%\XMind\`
 
 ### Registry
-1) HKCU:\
+a) HKCU:\
 
 1) HKLM:\Software\Classes\.xmind\
 2) HKLM:\Software\Classes\xmind\
