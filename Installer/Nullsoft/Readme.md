@@ -5,8 +5,9 @@
 * https://nsis.sourceforge.io/Main_Page
 
 ## Switch
-1) /S (case sensitive)
-2) /D=InstallDirNoDefault
+1) /S --Silent (case sensitive - so uppercase)
+2) /D --InstallDirNoDefault
+  * e.g `/D=Path`
 
 ---
 
