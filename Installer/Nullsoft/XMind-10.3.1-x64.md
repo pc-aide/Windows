@@ -30,16 +30,14 @@
   * 59.99/year
 * Mode Essai
 
-[<img src="https://i.imgur.com/hWmNaq3.png">](https://i.imgur.com/hWmNaq3.png)
+[<img src="https://i.imgur.com/fYxpHa5.png">](https://i.imgur.com/fYxpHa5.png)
 [<img src="https://i.imgur.com/8YwGwRW.png">](https://i.imgur.com/8YwGwRW.png)
-[<img src="https://i.imgur.com/nC9sbmG.png">](https://i.imgur.com/nC9sbmG.png)
 
 * export (filigranes sur l'image):
  * *.pdf
  * *.png - before with old ver 8.5_x64 - free as feature
  * markdown (*.md)
 
-[<img src="https://i.imgur.com/fYxpHa5.png">](https://i.imgur.com/fYxpHa5.png)
 [<img src="https://i.imgur.com/iS2B9nz.png">](https://i.imgur.com/iS2B9nz.png)
 [<img src="https://i.imgur.com/YxykdAo.png">](https://i.imgur.com/YxykdAo.png)
 
