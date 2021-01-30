@@ -29,7 +29,7 @@
 
 ## Install
 * Silent:
-  * `.exe /AllUsers /S`
+  * `.exe /allUsers /S`
 
 ---
 
@@ -141,4 +141,11 @@
 
 [<img src="https://i.imgur.com/mVH3e1k.png">](https://i.imgur.com/mVH3e1k.png)
 
-2) %AppData%\
+2) %AppData%\XMind\
+* \Dictionaries\
+* Electron v3
+* .VANA_MIGRATED
+
+[<img src="https://i.imgur.com/TIcGHtM.png">](https://i.imgur.com/TIcGHtM.png)
+
+---
