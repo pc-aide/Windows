@@ -98,7 +98,7 @@
 ---
 
 ## Shortcuts
-1) %Public%\Desktop\XMind.link
+1) %Public%\Desktop\XMind.lnk
   * `Remove-Item` "$Env:Public\Desktop\Xmind.lnk"
 
 [<img src="https://i.imgur.com/G4lPMnY.png">](https://i.imgur.com/G4lPMnY.png)
