@@ -170,6 +170,6 @@
 ### Registry
 a. HKCU:\
 
-1) HKLM:\Software\Classes\.xmind\
-2) HKLM:\Software\Classes\xmind\
-3) HKLM:\Software\Classes\xmind-zen\
+1. HKLM:\Software\Classes\.xmind\
+2. HKLM:\Software\Classes\xmind\
+3. HKLM:\Software\Classes\xmind-zen\
