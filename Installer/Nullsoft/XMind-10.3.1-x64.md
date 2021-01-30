@@ -29,7 +29,7 @@
 
 ## Install
 * Silent:
-  `*.exe /VerySilent /NoRestart`
+  * `.exe /AllUsers /S`
 
 ---
 
