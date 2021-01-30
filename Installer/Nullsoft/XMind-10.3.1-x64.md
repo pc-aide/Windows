@@ -15,7 +15,16 @@
   
 ---
 
+## Prog lang
+* Java
+
+---
+
 ## Price/License
+* License
+  * License: GNU Lesser General Public License v3
+  * Eclipse Public License v1.0
+
 * Cost:
   * US $39.99/6 months
   * 59.99/year
