@@ -20,3 +20,30 @@
 * 59.99/year
 
 ---
+
+---
+
+## Install
+
+---
+
+## Start program
+* Demo what is look the app
+
+[<img src="https://i.imgur.com/nZYQViB.png">](https://i.imgur.com/nZYQViB.png)
+
+---
+
+## extension (*.xmind)
+* test.xmind | size: 28 ko 
+
+[<img src="https://i.imgur.com/2UXlcqo.png">](https://i.imgur.com/2UXlcqo.png)
+
+---
+
+## ActiveSetup
+1) %localAppdata%\xmind-vana-update
+
+[<img src="https://i.imgur.com/mVH3e1k.png">](https://i.imgur.com/mVH3e1k.png)
+
+2) 
