@@ -34,9 +34,24 @@
 [<img src="https://i.imgur.com/8YwGwRW.png">](https://i.imgur.com/8YwGwRW.png)
 [<img src="https://i.imgur.com/nC9sbmG.png">](https://i.imgur.com/nC9sbmG.png)
 
-* export *.pdf
+* export (filigranes sur l'image):
+ * *.pdf
+ * *.png - before with old ver 8.5_x64 - free as feature
+ * markdown (*.md)
 
 [<img src="https://i.imgur.com/CMkhyvu.png">](https://i.imgur.com/CMkhyvu.png)
+[<img src="https://i.imgur.com/iS2B9nz.png">](https://i.imgur.com/iS2B9nz.png)
+[<img src="https://i.imgur.com/YxykdAo.png">](https://i.imgur.com/YxykdAo.png)
+
+* Export (need activation):
+ * Word
+ * Excel
+ * SVG 
+ * OPML
+ * TextBundle
+ 
+[<img src="https://i.imgur.com/urK7vbu.png">](https://i.imgur.com/urK7vbu.png)
+
 
 
 ---
