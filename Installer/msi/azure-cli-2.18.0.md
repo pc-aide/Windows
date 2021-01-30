@@ -1,4 +1,4 @@
-# azure-cli
+# azure-cli-2.18.0
 
 ## Acronym
 * CLI - Command Line Interface
