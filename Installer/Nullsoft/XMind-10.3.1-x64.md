@@ -39,7 +39,7 @@
  * *.png - before with old ver 8.5_x64 - free as feature
  * markdown (*.md)
 
-[<img src="https://i.imgur.com/CMkhyvu.png">](https://i.imgur.com/CMkhyvu.png)
+[<img src="https://i.imgur.com/fYxpHa5.png">](https://i.imgur.com/fYxpHa5.png)
 [<img src="https://i.imgur.com/iS2B9nz.png">](https://i.imgur.com/iS2B9nz.png)
 [<img src="https://i.imgur.com/YxykdAo.png">](https://i.imgur.com/YxykdAo.png)
 
