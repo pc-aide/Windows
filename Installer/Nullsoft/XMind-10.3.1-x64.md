@@ -143,9 +143,33 @@
 
 2) %AppData%\XMind\
 * \Dictionaries\
-* Electron v3
+* Electron v3\
+  * \Preferences
+````txt
+{"spellcheck":{"dictionaries":["fr"],"dictionary":""}}
+````
+
+[<img src="https://i.imgur.com/kdX3fin.png">](https://i.imgur.com/kdX3fin.png)
+
 * .VANA_MIGRATED
 
 [<img src="https://i.imgur.com/TIcGHtM.png">](https://i.imgur.com/TIcGHtM.png)
 
 ---
+
+## Uninstall
+* `*Uninstall XMind.exe /allUsers /S`
+
+---
+
+## Traces
+* Traces after uinistall
+### Files
+1) `%AppData%\XMind\`
+
+### Registry
+1) HKCU:\
+
+1) HKLM:\Software\Classes\.xmind\
+2) HKLM:\Software\Classes\xmind\
+3) HKLM:\Software\Classes\xmind-zen\
