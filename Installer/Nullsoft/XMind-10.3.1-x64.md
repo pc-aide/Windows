@@ -123,7 +123,11 @@
 
 ## Start program
 * First Run:
-  * %appdata%\XMind\Electron v3\
+  * %appdata%\XMind\Electron v3\vana\state\
+  * preferences.json
+````json
+{"systemLanguage":"fr","systemAppearance":"default","hiddenShareItems":[],"sendUsageData":false}
+````
   
 [<img src="https://i.imgur.com/Mndl8xk.png">](https://i.imgur.com/Mndl8xk.png)
 
