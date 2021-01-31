@@ -124,6 +124,13 @@
 ## Start program
 * First Run:
   * %appdata%\XMind\Electron v3\vana\state\
+  * rateUs.json
+````json
+{"rateMasValue":0,"rateMasTimes":0,"rateMas":false}
+````
+[<img src="https://i.imgur.com/7nnUuvO.png">](https://i.imgur.com/7nnUuvO.png)
+
+
   * preferences.json
 ````json
 {"systemLanguage":"fr","systemAppearance":"default","hiddenShareItems":[],"sendUsageData":false}
