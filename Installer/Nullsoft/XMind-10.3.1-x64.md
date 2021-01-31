@@ -124,6 +124,13 @@
 ## Start program
 * First Run:
   * %appdata%\XMind\Electron v3\vana\state\
+  * editors.json
+````json
+{"hasShownTutorial":true,"recentlyUsedThemes":[{"themeId":"db791d1fe94b291056ad2839c5","structureClass":"org.xmind.ui.map.unbalanced"}]}
+````
+
+[<img src="https://i.imgur.com/7nnUuvO.png">](https://i.imgur.com/7nnUuvO.png)
+
   * preferences.json
 ````json
 {"systemLanguage":"fr","systemAppearance":"default","hiddenShareItems":[],"sendUsageData":false}
