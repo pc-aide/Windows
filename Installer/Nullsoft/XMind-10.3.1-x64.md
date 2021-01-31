@@ -128,6 +128,10 @@
 ````json
 {"systemLanguage":"fr","systemAppearance":"default","hiddenShareItems":[],"sendUsageData":false}
 ````
+ * app.json
+````json
+{"acceptedEULAVersions":["1"],"workspaceMigrated":true,"workspaceMigrated2":true,"workspaceMigrated3":true,"lastWelcomeVersion":3}
+````
   
 [<img src="https://i.imgur.com/Mndl8xk.png">](https://i.imgur.com/Mndl8xk.png)
 
