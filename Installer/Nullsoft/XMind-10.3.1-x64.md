@@ -129,7 +129,7 @@
 {"hasShownTutorial":true,"recentlyUsedThemes":[{"themeId":"db791d1fe94b291056ad2839c5","structureClass":"org.xmind.ui.map.unbalanced"}]}
 ````
 
-[<img src="https://i.imgur.com/7nnUuvO.png">](https://i.imgur.com/7nnUuvO.png)
+[<img src="https://i.imgur.com/emr0ULP.png">](https://i.imgur.com/emr0ULP.png)
 
   * preferences.json
 ````json
