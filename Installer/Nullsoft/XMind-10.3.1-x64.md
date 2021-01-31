@@ -258,6 +258,10 @@
 
 2) `%tmp%\net.xmind.vana.app\`
 
+3) `%LocalAppdata%\xmind-vana-updater\installer.exe`
+
+[<img src="https://i.imgur.com/igWqHWV.png">](https://i.imgur.com/igWqHWV.png)
+
 [<img src="https://i.imgur.com/05mnyII.png">](https://i.imgur.com/05mnyII.png)
 
 ### Registry
