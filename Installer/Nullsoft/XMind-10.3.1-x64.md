@@ -256,6 +256,10 @@
 ### Files
 1) `%AppData%\XMind\`
 
+2) `%tmp%\net.xmind.vana.app\`
+
+[<img src="https://i.imgur.com/05mnyII.png">](https://i.imgur.com/05mnyII.png)
+
 ### Registry
 a. HKCU:\
 
