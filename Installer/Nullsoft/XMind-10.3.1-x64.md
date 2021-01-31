@@ -268,3 +268,5 @@ a. HKCU:\
 [<img src="https://i.imgur.com/KgklKPx.png">](https://i.imgur.com/KgklKPx.png)
 
 3. HKLM:\Software\Classes\xmind-zen\
+
+[<img src="https://i.imgur.com/4KEcVf3.png">](https://i.imgur.com/4KEcVf3.png)
