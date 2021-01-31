@@ -122,6 +122,23 @@
 ---
 
 ## Start program
+* First Run:
+  * %appdata%\XMind\Electron v3\
+  
+[<img src="https://i.imgur.com/Mndl8xk.png">](https://i.imgur.com/Mndl8xk.png)
+
+* EULA:
+
+[<img src="https://i.imgur.com/0UaFW95.png">](https://i.imgur.com/0UaFW95.png)
+
+* S'identifier (compte):
+
+[<img src="https://i.imgur.com/bqlBLxU.png">](https://i.imgur.com/bqlBLxU.png)
+
+* New | Bibliotheque:
+
+[<img src="https://i.imgur.com/qg4iCXU.png">](https://i.imgur.com/qg4iCXU.png)
+
 * Demo what is look the app
 
 [<img src="https://i.imgur.com/nZYQViB.png">](https://i.imgur.com/nZYQViB.png)
