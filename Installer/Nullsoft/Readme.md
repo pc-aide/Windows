@@ -49,3 +49,17 @@
 
 ## Extract *.exe
 * The archive may be unpacked using either **7-Zip**
+* e.g:
+  * $PLUGINSDIR
+  * resources
+  * Uninstall Xmind.exe
+
+[<img src="https://i.imgur.com/fKZDGWE.png">](https://i.imgur.com/fKZDGWE.png)
+
+* $PLUGINSDIR\app-64.7z
+
+[<img src="https://i.imgur.com/EUWNQ9p.png">](https://i.imgur.com/EUWNQ9p.png)
+
+* $PLUGINSDIR\app-64.7z\
+
+[<img src="https://i.imgur.com/0HScMoE.png">](https://i.imgur.com/0HScMoE.png)
