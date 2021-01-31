@@ -260,5 +260,8 @@
 a. HKCU:\
 
 1. HKLM:\Software\Classes\.xmind\
+
+[<img src="https://i.imgur.com/9HBYRE1.png">](https://i.imgur.com/9HBYRE1.png)
+
 2. HKLM:\Software\Classes\xmind\
 3. HKLM:\Software\Classes\xmind-zen\
