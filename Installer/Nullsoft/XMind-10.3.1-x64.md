@@ -157,6 +157,11 @@
 
 [<img src="https://i.imgur.com/nZYQViB.png">](https://i.imgur.com/nZYQViB.png)
 
+* s'identifier
+
+[<img src="https://i.imgur.com/dnsZea3.png">](https://i.imgur.com/dnsZea3.png)
+[<img src="https://i.imgur.com/xGER3wS.png">](https://i.imgur.com/xGER3wS.png)
+
 
 ---
 
