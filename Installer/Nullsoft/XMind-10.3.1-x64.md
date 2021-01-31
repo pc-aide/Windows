@@ -123,19 +123,18 @@
 
 ## Start program
 * First Run:
-  * %appdata%\XMind\Electron v3\vana\state\
-  * editors.json
+  * %appdata%\XMind\Electron v3\vana\state\editors.json
 ````json
 {"hasShownTutorial":true,"recentlyUsedThemes":[{"themeId":"db791d1fe94b291056ad2839c5","structureClass":"org.xmind.ui.map.unbalanced"}]}
 ````
 
 [<img src="https://i.imgur.com/emr0ULP.png">](https://i.imgur.com/emr0ULP.png)
 
-  * preferences.json
+  * %appdata%\XMind\Electron v3\vana\state\preferences.json
 ````json
 {"systemLanguage":"fr","systemAppearance":"default","hiddenShareItems":[],"sendUsageData":false}
 ````
- * app.json
+ * %appdata%\XMind\Electron v3\vana\state\app.json
 ````json
 {"acceptedEULAVersions":["1"],"workspaceMigrated":true,"workspaceMigrated2":true,"workspaceMigrated3":true,"lastWelcomeVersion":3}
 ````
