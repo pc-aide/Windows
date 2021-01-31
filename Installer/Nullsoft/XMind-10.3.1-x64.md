@@ -125,7 +125,7 @@
 * First Run:
   * %appdata%\XMind\Electron v3\vana\state\editors.json
 ````json
-{"hasShownTutorial":true,"recentlyUsedThemes":[{"themeId":"db791d1fe94b291056ad2839c5","structureClass":"org.xmind.ui.map.unbalanced"}]}
+{"hasShownTutorial":true}
 ````
 
 [<img src="https://i.imgur.com/emr0ULP.png">](https://i.imgur.com/emr0ULP.png)
