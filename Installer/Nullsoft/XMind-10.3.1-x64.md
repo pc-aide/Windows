@@ -57,6 +57,7 @@
 [<img src="https://i.imgur.com/v19lwdr.png">](https://i.imgur.com/v19lwdr.png)
 [<img src="https://i.imgur.com/iS2B9nz.png">](https://i.imgur.com/iS2B9nz.png)
 [<img src="https://i.imgur.com/YxykdAo.png">](https://i.imgur.com/YxykdAo.png)
+[<img src="https://i.imgur.com/S2s1qKW.png">](https://i.imgur.com/S2s1qKW.png)
 
 * Export (need activation):
  * Word
