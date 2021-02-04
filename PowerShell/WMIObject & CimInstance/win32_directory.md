@@ -1,5 +1,10 @@
 # win32_directory
 
+## Doc
+* https://www.jaapbrasser.com/search-for-files-using-wmi/
+
+---
+
 ## Class
 * win32_directory
 
