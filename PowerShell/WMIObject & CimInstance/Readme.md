@@ -1,5 +1,10 @@
 # WMIObject & CimInstance
 
+## Doc
+* https://wutils.com/wmi/root/cimv2/cim_datafile/
+
+---
+
 ## Differences
 * WmiObject = CimINstance
 * WmiObject = old
