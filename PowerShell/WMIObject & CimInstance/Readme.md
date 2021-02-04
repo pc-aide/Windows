@@ -2,6 +2,7 @@
 
 ## Doc
 * https://wutils.com/wmi/root/cimv2/cim_datafile/
+* https://powershell.one/wmi/
 
 ---
 
