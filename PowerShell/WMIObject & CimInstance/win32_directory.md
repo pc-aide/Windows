@@ -28,5 +28,5 @@
 ### 02 - specific path
 * Use double backslash for each folder
 * % -> wildcard -> all
-* `Get-WmiObject -Query "select * from win32_directory where name like 'c:\\users\\<userName>\\.azure%'"`
-[<img src="https://i.imgur.com/FBcUDzu.png">](https://i.imgur.com/FBcUDzu.png)
+* `Get-WmiObject -Query "select * from win32_directory where name like 'c:\\users\\%\\.azure%'"`
+[<img src="https://i.imgur.com/eKrNb90.png">](https://i.imgur.com/eKrNb90.png)
