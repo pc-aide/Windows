@@ -11,3 +11,9 @@
 ---
 
 ## Get-Member
+
+---
+
+## E.g.
+* `get-wmiObject win32_direcotry | select -First 2`
+[<img src="https://i.imgur.com/BtKdVcy.png">](https://i.imgur.com/BtKdVcy.png)
