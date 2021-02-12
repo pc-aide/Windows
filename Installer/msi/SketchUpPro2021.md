@@ -15,7 +15,7 @@
 * Size
   * installer: ~198MB
   * installed: ~828MB
-  * https://download.flexnetoperations.com/439214/1540/367/17449367/SketchUpPro-2021-0.msi?ftpRequestID=8450260897&server=download.flexnetoperations.com&dtm=DTM20210212202929NzU3OTk4MDU3&authparam=1613190569_430e413587b5ebc6ce518ee512a4e170&ext=.msi
+* https://download.flexnetoperations.com/439214/1540/367/17449367/SketchUpPro-2021-0.msi?ftpRequestID=8450260897&server=download.flexnetoperations.com&dtm=DTM20210212202929NzU3OTk4MDU3&authparam=1613190569_430e413587b5ebc6ce518ee512a4e170&ext=.msi
 
 ---
 
