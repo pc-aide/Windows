@@ -62,6 +62,11 @@
 ---
 
 ## Eula
+* %localAppData%\SketchUp\SketchUp 2021\SketchUp\PrivatePreferences.json
+````json
+
+````
+
 [<img src="https://i.imgur.com/GMokyRE.png">](https://i.imgur.com/GMokyRE.png)
 
 
