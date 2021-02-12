@@ -29,11 +29,28 @@
   
 ---
 
+## Extract msi from InstallShield 
+* Start program install from installShield without to end of the setup
+* `%LocalAppData%\Downloaded Installations\` it'will appear when setup are launched 
+
+[<img src="https://i.imgur.com/2mrA13m.png"](https://i.imgur.com/2mrA13m.png)
+
+* msi + pack language:
+
+[<img src="https://i.imgur.com/TT195a3.png">](https://i.imgur.com/TT195a3.png)
+
+* `SketchUpLanguage-2021-0-391-128-fr.msi`
+
+[<img src="https://i.imgur.com/GcvZR4E.png">](https://i.imgur.com/GcvZR4E.png)
+
+---
+
 ## mst
 1) Shortcut
   * 3x desktop
   
 [<img src="https://i.imgur.com/GAVlvar.png">](https://i.imgur.com/GAVlvar.png)
+
 
 ---
 
