@@ -5,7 +5,8 @@
 * https://www.sketchup.com/plans-and-pricing
 
 ## URL
-* https://help.sketchup.com/en/sketchup/performing-silent-install-sketchup
+* If you're looking for a Microsoft Silent Install (MSI) file, you'll find i
+ * https://help.sketchup.com/en/sketchup/performing-silent-install-sketchup
 
 ## DDL
 * msi:
