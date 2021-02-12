@@ -1,10 +1,17 @@
 # Orca
 
 ## Intro
-* Read *.msi (free software) vs Admin Studio ($ software)
+* Read *.msi (free software) vs Admin Studio ($ software) & create *.mst (custom install)
+
 
 ### PNG
 [<img src="https://i.imgur.com/n2brbcN.png">](https://i.imgur.com/n2brbcN.png)
+
+---
+
+## SRC
+* Windows SDK
+  * https://software-download.microsoft.com/download/pr/19041.685.201201-2105.vb_release_svc_prod1_WindowsSDK.iso
 
 ---
 
