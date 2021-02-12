@@ -52,3 +52,16 @@
 |4|Common startup|C:\\ProgramData\\Microsoft\\Windows\Start Menu\\Programs\\StartUp|
 
 [<img src="https://i.ibb.co/3Br9Knt/image.png">](https://i.ibb.co/3Br9Knt/image.png)
+
+---
+
+## Product Language codes
+|n|	Language        |	Code |
+|-|-----------------|------|
+|1|	German (Germany)|	1031 |
+|2|	English (US)    |	1033 |
+|3|	French (France) |	1036 |
+|4|	Russian         |	1049 |
+|5|	French - Canada |	3084 |
+
+---
