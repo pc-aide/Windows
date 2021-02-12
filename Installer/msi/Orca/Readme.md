@@ -14,3 +14,8 @@
   
 [<img src="https://i.imgur.com/ekMih1I.png">](https://i.imgur.com/ekMih1I.png)
 [<img src="https://i.imgur.com/GAVlvar.png">](https://i.imgur.com/GAVlvar.png)
+
+---
+
+## Install with *.mst
+* `Start-Process msiExec -arugmentList "/i SketchUpPro2021.msi TRANSFORMS=*.mst /q /NoRestart"`
