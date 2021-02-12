@@ -1,5 +1,8 @@
 # SketchUpPro2021
 
+## Doc
+* https://silentinstallhq.com/sketchup-pro-2021-silent-install-how-to-guide/
+
 ## URL
 * https://help.sketchup.com/en/sketchup/performing-silent-install-sketchup
 
