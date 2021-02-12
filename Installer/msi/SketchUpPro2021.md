@@ -39,3 +39,10 @@
 
 ## Install
 * `Start-process msiExec -argumentList "/i SketchUpPro-2021-0.msi TRANSFORMS=*.mst /q /noRestart"`
+
+---
+
+## Eula
+* 
+
+[<img src="https://i.imgur.com/zPfz2yk.png">](https://i.imgur.com/zPfz2yk.png)
