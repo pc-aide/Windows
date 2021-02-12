@@ -34,3 +34,8 @@
   * 3x desktop
   
 [<img src="https://i.imgur.com/GAVlvar.png">](https://i.imgur.com/GAVlvar.png)
+
+---
+
+## Install
+* `Start-process msiExec -argumentList "/i SketchUpPro-2021-0.msi TRANSFORMS=*.mst /q /noRestart"`
