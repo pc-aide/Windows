@@ -1,9 +1,11 @@
 ## add file_with_*.mst
 ---
 
-## New *.mst
+## URL
+* https://community.broadcom.com/communities/community-home/digestviewer/viewthread?MID=777101
+ * `JunosPulse.x86.msi CONFIGFILE="%USERPROFILE%\Downloads\Default.jnprpreconfig" /passive`
 
---
+---
 
 ## src
 * https://configgirl.com/2019/01/06/how-to-add-file-to-mst/
