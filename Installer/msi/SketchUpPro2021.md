@@ -1,5 +1,9 @@
 # SketchUpPro2021
 
+## Terminology
+* ActiveSetup
+  * Active Setup is a mechanism for **executing commands once per user** early during login. Active Setup is used by some Microsoft Windows operating system components like Internet Explorer to set up an initial configuration for **new users logging** on for the first time.
+
 ## Acronym
 * DAO - Dessin assister par ordinateur
 * DDL - Download Direct Link
@@ -57,7 +61,7 @@
 [<img src="https://i.imgur.com/QRlduk3.png">](https://i.imgur.com/QRlduk3.png)
 
 Orca\Transform\Generate Transform...
-  * save as *.mst
+  * extension: save as *.mst
   
 * Orca\Transform\New Transform - SketchUpPro.msi
 
@@ -121,6 +125,10 @@ Orca\Transform\Generate Transform...
 
 [<img src="https://i.imgur.com/eAWwUYC.png">](https://i.imgur.com/eAWwUYC.png)
 [<img src="https://i.imgur.com/Q4f4kcf.png">](https://i.imgur.com/Q4f4kcf.png)
+
+* Account error\Cookes disabled
+
+[<img src="https://i.imgur.com/arSIFRa.png">](https://i.imgur.com/arSIFRa.png)
 
 ---
 
@@ -359,3 +367,48 @@ Orca\Transform\Generate Transform...
 ---
 
 ## Process
+|n|Name        |
+|-|------------|
+|1|SketchUp.exe|
+|2|sketchup_webhelper.exe|
+|3|Style builder|
+|4|LayOut       |
+
+---
+
+## Uninstall
+1) PackageLangFr:
+* Orca\Tables\Property\ProductCode: `{62798017-bca6-d674-bba7-7c85ccc7db73}`
+  * `Start-process msiExec -argumentList "/x {62798017-bca6-d674-bba7-7c85ccc7db73} /q /noRestart"`
+
+2) SketchUp
+* Orca\Tables\Property\ProductCode: `{d355be80-c8d8-9076-14e8-5ae3c8f487b0}`
+  * `Start-process msiExec -argumentList "/x {d355be80-c8d8-9076-14e8-5ae3c8f487b0} /q /noRestart"`
+  * uninstaller_helper.exe
+    * Time: ~2s
+    
+[<img src="https://i.imgur.com/EJ24pPA.png">](https://i.imgur.com/EJ24pPA.png)
+
+---
+
+## Traces After Uninstall1
+### Files
+1) Traces-Files-01: `C:\Program Files\SketchUp\SketchUp 2021`
+2) Traces-Files-02: `%ProgramData\SketchUp\`
+
+### ActiveSetup
+1) Traces-ActiveSetup-01: `%AppData%\SketchUp\`
+2) Traces-ActiveSetup-02: `%LocalAppData%\SketchUp\`
+
+### Registries
+
+#### HKU
+
+#### HKLM
+1) Trace-HKLM-01: `Get-ItemProperty HKLM:\Software\Microsoft\Windows\CurrentVersion\Installer\Folders -Name "C:\Program Files\SketchUp*\"`
+  * Many-files
+
+[<img src="https://i.imgur.com/eyC23NB.png">](https://i.imgur.com/eyC23NB.png)
+[<img src="https://i.imgur.com/1jdXoYU.png">](https://i.imgur.com/1jdXoYU.png)
+
+2) Trace-HKLM-02: `Get-ItemProperty HKLM:\Software\Microsoft\Windows\CurrentVersion\Installer\Folders -Name "C:\ProgramData\SketchUp*"`
