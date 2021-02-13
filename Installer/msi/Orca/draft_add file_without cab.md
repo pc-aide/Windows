@@ -1,4 +1,4 @@
-## add file_with_*.mst
+## add file_without cab
 ---
 
 ## URL
