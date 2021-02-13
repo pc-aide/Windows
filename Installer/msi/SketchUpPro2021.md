@@ -59,7 +59,17 @@
 
 ---
 
+## InstallDir
+* `%C:\ProgramFiles%\SketchUp\SketchUp 2021\`
+
+---
+
 ## Eula
-* 
+* `%localAppData%\`
 
 [<img src="https://i.imgur.com/zPfz2yk.png">](https://i.imgur.com/zPfz2yk.png)
+
+
+---
+
+##
