@@ -1,11 +1,12 @@
-<#
--------------------------------------------------------------------------------------------------------------------------
-SRC -> https://www.itprotoday.com/windows-8/powershell-create-domains
-Module: ServerManager
+# Create_Domain
+
+## SRC
+* https://www.itprotoday.com/windows-8/powershell-create-domains
+
+---
  
-O/P -> https://imgur.com/a/nM9j61r
--------------------------------------------------------------------------------------------------------------------------
-#>
+## E.g-01
+````powershell
 #ADLDS -> Active Directory Lighweight Directory Services
 Import-Module "Servermanager" 
 Add-WindowsFeature AD-Domain-Services, adlds -IncludeManagementTools
@@ -28,3 +29,7 @@ Install-ADDSForest -DomainName $domainName -DomainNetBIOSName $netBiosname `
     -SafemodeAdministratorPassword $SafePass -SkipAutoConfigureDNS -SkipPreChecks `
     -SYSVOLPath $SysvolPath -DatabasePath $NTDSPath -LogPath $NTDSLogpath `
     -Force
+````
+[<img src="https://i.imgur.com/VESirJV.png">](https://i.imgur.com/VESirJV.png)
+
+---
