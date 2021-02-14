@@ -67,6 +67,7 @@ Orca\Transform\Generate Transform...
 
 [<img src="https://i.imgur.com/lotPHZM.png">](https://i.imgur.com/lotPHZM.png)
 
+
 * Tables\Shortcut\
   * Remove 3x desktopFolder
     * LAYOUT~|Layout 2021
@@ -279,6 +280,7 @@ Orca\Transform\Generate Transform...
 * save as *.skp
 
 [<img src="https://i.imgur.com/eqrZ7IT.png">](https://i.imgur.com/eqrZ7IT.png)
+[<img src="https://i.imgur.com/U8fx5Lz.png">](https://i.imgur.com/U8fx5Lz.png)
 
 * Edition\Preferences..
 
