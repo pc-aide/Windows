@@ -403,6 +403,14 @@ Orca\Transform\Generate Transform...
 ### Registries
 
 #### HKU
+1) Trace-HKU-01: `get-Item HKCU:\Software\SketchUp\`
+  * nt authority system
+````powershell
+New-PSDrive HKU Registry HKEY_USERS -ErrorAction SitlentlyContinue
+Remove-Item "HKU:\*\Software\SketchUp\" -Force -Recurse -ErrorAction SitlentlyContinue
+````
+
+[<img src="https://i.imgur.com/YEiLnor.png">](https://i.imgur.com/YEiLnor.png)
 
 #### HKLM
 1) Trace-HKLM-01: `Get-ItemProperty HKLM:\Software\Microsoft\Windows\CurrentVersion\Installer\Folders -Name "C:\Program Files\SketchUp*\"`
