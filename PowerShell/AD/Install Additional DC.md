@@ -29,4 +29,4 @@ Install-ADDSDomainController -NoGlobalCatalog:$false -CreateDnsDelegation:$false
   * `Get-adForest`
   * `netdom /query fsmo`
 
-[<img src="https://i.imgur.com/bFxSdjc.png">](https://i.imgur.com/bFxSdjc.png0
+[<img src="https://i.imgur.com/bFxSdjc.png">](https://i.imgur.com/bFxSdjc.png0)
