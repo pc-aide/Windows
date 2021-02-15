@@ -143,7 +143,7 @@ Orca\Transform\Generate Transform...
 
 ### Hyper-v (1909):
   * RemoteFX 3D Video gone
-  * if we have GPU - Try Out: `Add-VMRemoteFx3dVideoAdapter -VMName [vm_name]`
+  * if we have GPU compatible with RemoteFX - Try Out: `Add-VMRemoteFx3dVideoAdapter -VMName [vm_name]`
     * We must now use Discrete Device Assignment (DDA):
     
 * Hote with no GPU:
