@@ -7,13 +7,14 @@
 ## Acronym
 * DAO - Dessin assister par ordinateur
 * DDL - Download Direct Link
+* DDA - Discrete Device Assignment 
 
-## Intro
-* DAO 
+---
 
 ## URL
 * https://help.sketchup.com/en/sketchup/performing-silent-install-sketchup
 * https://www.sketchup.com/plans-and-pricing
+* https://social.technet.microsoft.com/Forums/forefront/en-US/738f05a3-a8d2-49ca-a82a-d356b83e1cd4/hyperv-quotremotefx-3d-video-adapterquot-gone-in-windows-10-1809?forum=virtualmachingmgrhyperv
 
 ## DDL
 * Size
@@ -130,6 +131,19 @@ Orca\Transform\Generate Transform...
 * Account error\Cookes disabled
 
 [<img src="https://i.imgur.com/arSIFRa.png">](https://i.imgur.com/arSIFRa.png)
+
+---
+
+## 3D Graphics
+* The app need enabled: Accelerate 3D graphics
+
+* vmware:
+
+[<img src="https://i.imgur.com/zxfFZ0Q.png">](https://i.imgur.com/zxfFZ0Q.png)
+
+* Hyper-v (1909):
+  * RemoteFX 3D Video gone
+    * We must now use Discrete Device Assignment (DDA):
 
 ---
 
