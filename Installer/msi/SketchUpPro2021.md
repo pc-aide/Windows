@@ -164,6 +164,17 @@ Orca\Transform\Generate Transform...
 
 ---
 
+## Sing in
+* https://accounts.sketchup.com/logout?destination=http://127.0.0.1:50838/signout&hl=en
+* https://accounts.sketchup.com/logout?destination=http://127.0.0.1:50838/signout&hl=fr
+  * [e.g: client_id=](https://identity.trimble.com/trimble-identity/identity/login/?client_id=VfqyszafXbvHZ2gMtOIssGDdT3Ya&commonAuthCallerPath=%2Foauth2%2Fauthorize&forceAuth=false&lang=en&passiveAuth=false&redirect_uri=https%3A%2F%2Flogin.sketchup.com%2Flogin%2Ftrimbleid%2Fcallback&response_type=code&scope=openid+device_ae20a623-1a6f-412b-9792-42626d5a9fc5&state=QXV0aEtleSBmM2Y0Y2Q0Ni03YTAyLTQwMTEtOWQyMi1hMTI2NThlZmI5ZmU_&tenantDomain=trimble.com&sessionDataKey=5d845b06-5705-4dbd-a387-8b6efc8e9989&relyingParty=VfqyszafXbvHZ2gMtOIssGDdT3Ya&type=oidc&sp=sketchup_login_prod&isSaaSApp=true&authenticators=AppleOauth2Authenticator%3AAppleAuthentication%3BGoogleOAUth2OpenIDAuthenticator%3AGoogleIDP%3BExtendedBasicAuthenticator%3ALOCAL%3ALOCAL&ckj=eyJ4NXQiOiJNREk0WTJNd1pUVmpNRGRsTkdVeFlUSmtaV00zWmpCaVptVTBZVFprTkRjek9HTmhZMk5oTmciLCJraWQiOiJNREk0WTJNd1pUVmpNRGRsTkdVeFlUSmtaV00zWmpCaVptVTBZVFprTkRjek9HTmhZMk5oTmciLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvaWRlbnRpdHkudHJpbWJsZS5jb20iLCJ0eXAiOiJ1cm46aWV0ZjpwYXJhbXM6b2F1dGg6dG9rZW4tdHlwZTpzZWN1cmVfcGFyYW1zIiwiZXhwIjoxNjEzNTIxNjA2LCJpYXQiOjE2MTM1MTgwMDYsImNsaWVudF9pZCI6IlZmcXlzemFmWGJ2SFoyZ010T0lzc0dEZFQzWWEifQ.fFAndsuy2bO8XOMHeMv7vcmhF02m-NdTQhvr8Ja-D1O5mjl6hotDFfymGZPQDkIHNmuZo1pT3USBZmtc8WIpRFHYyUX8i1pE29vxhgK5j3zwr5aRSYY9BlvDukJF_VOoSxsDdcblYmZQKzBV8AQOkt9YkJCTdBpoS0N9X0ipsh0)
+
+
+[<img src="https://i.imgur.com/lOyWtPn.png">](https://i.imgur.com/lOyWtPn.png)
+
+
+---
+
 ## Too many devices connected
 [<img src="https://i.imgur.com/uBPqbTG.png">](https://i.imgur.com/uBPqbTG.png)
 
