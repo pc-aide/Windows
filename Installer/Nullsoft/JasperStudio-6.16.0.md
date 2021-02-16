@@ -2,12 +2,17 @@
 
 ## Doc
 * [js-7.5-User-Guid](https://docs.tibco.com/pub/js-jrs/7.5.0/doc/pdf/TIB_js-jss_7.5_User-Guide.pdf?id=5)
+* [Add language](https://community.jaspersoft.com/wiki/how-install-jaspersoft-studio-translation)
 
 ## Intro
 * Publisher: TIBCO Software Inc.
 * Name: TIBCO Jaspersoft Studio-6.16.0
 * Arch: 64-bit
 * Lic: Eclipse Public Lic - v1.0
+* Lang:
+  * English
+  * Italiano
+  * more available with download
 
 ---
 
