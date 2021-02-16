@@ -36,6 +36,13 @@
   
 ---
 
+## Dependence
+* vc_redist.x64 2015-2019
+
+[<img src="https://i.imgur.com/61xZX8r.png">](https://i.imgur.com/61xZX8r.png)
+
+---
+
 ## Extract msi from InstallShield 
 * Start program install from installShield without to end of the setup
 * `%LocalAppData%\Downloaded Installations\` it'will appear when setup are launched 
