@@ -1,5 +1,8 @@
 # JasperStudio-6.16.0
 
+## Doc
+* [js-7.5User-Guid](https://docs.tibco.com/pub/js-jrs/7.5.0/doc/pdf/TIB_js-jss_7.5_User-Guide.pdf?id=5)
+
 ## Intro
 * Publisher: TIBCO Software Inc.
 * Name: TIBCO Jaspersoft Studio-6.16.0
@@ -21,6 +24,8 @@
 ## Install
 * `TIB_js-studiocomm_x.y.z_windows_x86_64.exe /S`
 * `TIB_js-studiocomm_x.y.z_windows_x86_64.exe /S /D=C:\TIBCO\Jaspersoft Studio`
+* `TIB_js-studiocomm_x.y.z_windows_x86_64.exe /S /LICENSE=<path>`
+*  
 
 ---
 
