@@ -4,3 +4,4 @@
 * https://silentinstallhq.com/
   * SketchUp
   * Xmind
+  * Jaspersoft
