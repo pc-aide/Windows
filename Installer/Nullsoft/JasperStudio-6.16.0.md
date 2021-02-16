@@ -6,6 +6,18 @@
 * Arch: 64-bit
 * Lic: Eclipse Public Lic - v1.0
 
+---
+
+## DDL
+* Name: JasperSoft Studio Professional 7.9
+* Size:
+  * Installer: 863MB
+  * Installed: 
+    * https://edownloads.tibco.com/Installers/tap/js-jss-dev/7.9.0/TIB_js-jss-dev_7.9.0_windows_x86_64.exe?SJCDPTPG=1616083248_14b72125f691fa77bf4282cba2348213&ext=.exe
+    * https://edownloads.tibco.com/Installers/tap/js-jrio-dev/2.0.0/TIB_js-jrio-pro-dev_2.0.0_win_x86_64.zip?SJCDPTPG=1616083390_df821e13ee9095a7311ec985807881dd&ext=.zip
+
+---
+
 ## Install
 * `TIB_js-studiocomm_x.y.z_windows_x86_64.exe /S`
 * `TIB_js-studiocomm_x.y.z_windows_x86_64.exe /S /D=C:\TIBCO\Jaspersoft Studio`
