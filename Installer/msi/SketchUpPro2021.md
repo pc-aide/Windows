@@ -15,6 +15,7 @@
 * https://help.sketchup.com/en/sketchup/performing-silent-install-sketchup
 * https://www.sketchup.com/plans-and-pricing
 * https://social.technet.microsoft.com/Forums/forefront/en-US/738f05a3-a8d2-49ca-a82a-d356b83e1cd4/hyperv-quotremotefx-3d-video-adapterquot-gone-in-windows-10-1809?forum=virtualmachingmgrhyperv
+* [DDA.Microsoft | need GPU ?](https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/plan/plan-for-deploying-devices-using-discrete-device-assignment#machine-profile-script)
 
 ## DDL
 * Size
