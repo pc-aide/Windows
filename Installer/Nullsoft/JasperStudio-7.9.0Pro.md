@@ -1,4 +1,4 @@
-# JasperStudio-6.16.0
+# JasperStudio-7.9.0Pro
 
 ## Doc
 * [js-7.5-User-Guid](https://docs.tibco.com/pub/js-jrs/7.5.0/doc/pdf/TIB_js-jss_7.5_User-Guide.pdf?id=5)
@@ -14,6 +14,7 @@
   * English
   * Italiano
   * more available with download
+* License: yes
 
 ---
 
