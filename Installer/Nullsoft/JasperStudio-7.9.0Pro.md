@@ -7,7 +7,7 @@
 
 ## Intro
 * Publisher: TIBCO Software Inc.
-* Name: TIBCO Jaspersoft Studio-6.16.0
+* Name: TIBCO Jaspersoft Studio Professional-7.9.0
 * Arch: 64-bit
 * Lic: Eclipse Public Lic - v1.0
 * Lang:
