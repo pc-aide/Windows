@@ -4,6 +4,13 @@
 ## Doc
 * https://nsis.sourceforge.io/Main_Page
 
+---
+
+## Acronym
+* NSIS - Nullsoft Scriptable Install System
+
+---
+
 ## Switch
 1) /S --Silent (case sensitive - so uppercase)
 2) /D --InstallDirNoDefault
