@@ -4,6 +4,7 @@
 * [js-7.5-User-Guid](https://docs.tibco.com/pub/js-jrs/7.5.0/doc/pdf/TIB_js-jss_7.5_User-Guide.pdf?id=5)
 * [Add language](https://community.jaspersoft.com/wiki/how-install-jaspersoft-studio-translation)
 * [Translation](https://community.jaspersoft.com/wiki/how-translate-jaspersoft-studio)
+* [TIB_js-jrs-7.9-Support.pdf](https://docs.tibco.com/pub/js-jrs/7.9.0/doc/pdf/TIB_js-jrs_7.9_Platform-Support-Commercial-Edition.pdf?id=0)
 
 ## Intro
 * Publisher: TIBCO Software Inc.
