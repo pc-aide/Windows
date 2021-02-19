@@ -38,5 +38,18 @@
 
 ---
 
+## Update
+* Automatically find new updte & notify me `%UserProfile%\eclipse\536852348_win32_win32_x86_64\p2\org.eclipse.equinox.p2.engine\profileRegistry\DefaultProfile.profile\.data\.settings\org.eclipse.equinox.p2.ui.sdk.scheduler.prefs`
+````prefs
+eclipse.preferences.version=1
+enabled=false
+fuzzy_recurrence=Once a day
+lastAutoCheckForUpdates=2021-02-19T09\:06\:13.836-0500
+````
+
+[<img src="https://i.imgur.com/CRtbOhV.png">](https://i.imgur.com/CRtbOhV.png)
+
+---
+
 ## Uninstall
 * `"%ProgramFiles%\TIBCO\Jaspersoft Studio-x.y.z\uninst.exe" /S`
