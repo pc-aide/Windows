@@ -51,5 +51,11 @@ lastAutoCheckForUpdates=2021-02-19T09\:06\:13.836-0500
 
 ---
 
+## About
+
+[<img src="https://i.imgur.com/cFH3V5A.png">](https://i.imgur.com/cFH3V5A.png)
+
+---
+
 ## Uninstall
 * `"%ProgramFiles%\TIBCO\Jaspersoft Studio-x.y.z\uninst.exe" /S`
