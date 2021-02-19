@@ -38,6 +38,60 @@
 
 ---
 
+## InstallDir
+* `%ProgramFiles\Program Files\TIBCO\Jaspersoft Studio Professional-7.9.0`
+
+---
+
+## *.ini
+* $InstallDir\Jaspersoft Studio Professional.ini
+````ini
+-startup
+plugins/org.eclipse.equinox.launcher_1.5.600.v20191014-2022.jar
+--launcher.library
+plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.1100.v20190907-0426
+-data
+@noDefault
+--launcher.defaultAction
+openFile
+-vm
+features/jre.win32.win32.x86_64.feature_1.8.0.u151/jre/bin
+-vmargs
+-Xms128m
+-Xmx1024m
+-XX:+CMSClassUnloadingEnabled
+-XX:+UseConcMarkSweepGC
+-Dfile.encoding=UTF-8
+-Djava.net.preferIPv4Stack=true
+-Ddeployment.security.TLSv1.1=true
+-Ddeployment.security.TLSv1.2=true
+````
+
+---
+
+## License
+* $InstallDir\*.license
+
+---
+
+## Shortcuts
+1) `$env:Public\Dekstop\Jaspersoft Studio Professional-7.9.0.lnk`
+2) `%ProgramData%\Microsoft\Windows\Start Menu\Programs\TIBCO\Jaspersoft Studio Professional 7.9.0 64bit.lnk`
+
+[<img src="https://i.imgur.com/VlyfAJF.png">](https://i.imgur.com/VlyfAJF.png)
+
+---
+
+## Welcome
+* Get started
+* Learn More
+* Collaborate
+* `%UserProfile%\JaspersoftWorkspace\.metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi`
+
+[<img src="https://i.imgur.com/nkvBZtC.png">](https://i.imgur.com/nkvBZtC.png)
+
+---
+
 ## Update
 * Automatically find new updte & notify me `%UserProfile%\eclipse\536852348_win32_win32_x86_64\p2\org.eclipse.equinox.p2.engine\profileRegistry\DefaultProfile.profile\.data\.settings\org.eclipse.equinox.p2.ui.sdk.scheduler.prefs`
 ````prefs
