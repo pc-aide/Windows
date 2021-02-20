@@ -86,7 +86,15 @@ features/jre.win32.win32.x86_64.feature_1.8.0.u151/jre/bin
 * Get started
 * Learn More
 * Collaborate
-* `%UserProfile%\JaspersoftWorkspace\.metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi`
+* Options:
+  1) `%UserProfile%\JaspersoftWorkspace\.metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi`
+    * <parti_code>
+  3) `%UserProfile%\JaspersoftWorkspace\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs`
+````prefs
+PROMPT_WHEN_SAVEABLE_STILL_OPEN=false
+eclipse.preferences.version=1
+showIntro=false
+````
 
 [<img src="https://i.imgur.com/nkvBZtC.png">](https://i.imgur.com/nkvBZtC.png)
 
