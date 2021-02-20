@@ -136,6 +136,25 @@ lastAutoCheckForUpdates=2021-02-19T09\:06\:13.836-0500
 * Name: sqljdbc_9.2.0.0_enu.zip
 * DDL
   *  https://download.microsoft.com/download/4/c/3/4c31fbc1-62cc-4a0b-932a-b38ca31cd410/sqljdbc_9.2.0.0_enu.zip
+* file: msSql-jdbc-9.2.0.jre8.jar
+
+[<img src="https://i.imgur.com/cjspyNJ.png">](https://i.imgur.com/cjspyNJ.png)
+
+---
+
+## Data Adapters
+* Repository Explorer\Data Adapters\Create Data Adapter
+  * Use queries to get data from a database: Database JDBC Connection
+  * Driver Classpath\Ajouter
+    * msSql-jdbc-9.2.0.jre8.jar
+    * Finish
+
+[<img src="https://i.imgur.com/i2a0qCo.png">](https://i.imgur.com/i2a0qCo.png)
+[<img src="https://i.imgur.com/zYkqehQ.png">](https://i.imgur.com/zYkqehQ.png)
+[<img src="https://i.imgur.com/OheMCuU.png">](https://i.imgur.com/OheMCuU.png)
+[<img src="https://i.imgur.com/wEK12ZF.png">](https://i.imgur.com/wEK12ZF.png)
+[<img src="https://i.imgur.com/HG1mwvy.png">](https://i.imgur.com/HG1mwvy.png)
+[<img src="https://i.imgur.com/gCUtTWc.png">](https://i.imgur.com/gCUtTWc.png)
 
 ---
 
