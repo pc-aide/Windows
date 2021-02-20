@@ -7,6 +7,7 @@
 * [TIB_js-jrs-7.9-Support_pp10.pdf](https://docs.tibco.com/pub/js-jrs/7.9.0/doc/pdf/TIB_js-jrs_7.9_Platform-Support-Commercial-Edition.pdf?id=0)
 * [TIB_js-jrs-7.9-Support_pp472.pdf](https://docs.tibco.com/pub/js-jss/7.9.0/doc/pdf/TIB_js-jss_7.9_User-Guide.pdf?id=0)
 * [jdk8-downloads](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
+* [Download JDBC Driver for SQL Server](https://docs.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver15)
 
 ## Intro
 * Publisher: TIBCO Software Inc.
@@ -127,6 +128,14 @@ lastAutoCheckForUpdates=2021-02-19T09\:06\:13.836-0500
 ## About
 
 [<img src="https://i.imgur.com/cFH3V5A.png">](https://i.imgur.com/cFH3V5A.png)
+
+---
+
+## SQL JDBC 
+* Driver
+* Name: sqljdbc_9.2.0.0_enu.zip
+* DDL
+  *  https://download.microsoft.com/download/4/c/3/4c31fbc1-62cc-4a0b-932a-b38ca31cd410/sqljdbc_9.2.0.0_enu.zip
 
 ---
 
