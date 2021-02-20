@@ -1,4 +1,4 @@
-# JasperStudio-7.9.0Pro
+# JasperStudioPro-7.9.0
 
 ## Doc
 * [js-7.5-User-Guid](https://docs.tibco.com/pub/js-jrs/7.5.0/doc/pdf/TIB_js-jss_7.5_User-Guide.pdf?id=5)
@@ -6,6 +6,7 @@
 * [Translation](https://community.jaspersoft.com/wiki/how-translate-jaspersoft-studio)
 * [TIB_js-jrs-7.9-Support_pp10.pdf](https://docs.tibco.com/pub/js-jrs/7.9.0/doc/pdf/TIB_js-jrs_7.9_Platform-Support-Commercial-Edition.pdf?id=0)
 * [TIB_js-jrs-7.9-Support_pp472.pdf](https://docs.tibco.com/pub/js-jss/7.9.0/doc/pdf/TIB_js-jss_7.9_User-Guide.pdf?id=0)
+* [jdk8-downloads](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
 
 ## Intro
 * Publisher: TIBCO Software Inc.
@@ -17,6 +18,11 @@
   * Italiano
   * more available with download
 * License: yes
+
+---
+
+## Dependence
+* Oracle JDK
 
 ---
 
