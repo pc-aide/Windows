@@ -70,7 +70,12 @@ features/jre.win32.win32.x86_64.feature_1.8.0.u151/jre/bin
 ---
 
 ## License
-* $InstallDir\*.license`
+* `$InstallDir\*.license`
+* evaluation
+
+[<img src="https://i.imgur.com/G04oDEE.png">](https://i.imgur.com/G04oDEE.png)
+[<img src="https://i.imgur.com/O6WOchD.png">](https://i.imgur.com/O6WOchD.png)
+
 
 ---
 
@@ -92,6 +97,11 @@ features/jre.win32.win32.x86_64.feature_1.8.0.u151/jre/bin
 
 
 [<img src="https://i.imgur.com/nkvBZtC.png">](https://i.imgur.com/nkvBZtC.png)
+
+---
+
+## Start Program
+[<img src="https://i.imgur.com/lNMn6dU.png">](https://i.imgur.com/lNMn6dU.png)
 
 ---
 
