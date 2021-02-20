@@ -70,7 +70,7 @@ features/jre.win32.win32.x86_64.feature_1.8.0.u151/jre/bin
 ---
 
 ## License
-* $InstallDir\*.license
+* $InstallDir\*.license`
 
 ---
 
