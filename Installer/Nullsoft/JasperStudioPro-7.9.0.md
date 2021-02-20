@@ -156,22 +156,24 @@ lastAutoCheckForUpdates=2021-02-19T09\:06\:13.836-0500
 [<img src="https://i.imgur.com/HG1mwvy.png">](https://i.imgur.com/HG1mwvy.png)
 [<img src="https://i.imgur.com/gCUtTWc.png">](https://i.imgur.com/gCUtTWc.png)
 
----
-
-## Uninstall
-* `"%ProgramFiles%\TIBCO\Jaspersoft Studio-x.y.z\uninst.exe" /S`
 * Path `C:\Users\admin\JaspersoftWorkspace\.metadata\.plugins\com.jaspersoft.studio\dataAdapters\dataAdapter_3`
 ````xml
 <?xml version="1.0" encoding="UTF-8"?>
 <jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
-<name>Test101</name>
-<driver>org.hsqldb.jdbcDriver</driver>
-<username/>
-<password/>
-<savePassword>true</savePassword>
-<url>jdbc:hsqldb:[PATH_TO_DB_FILES]/database</url>
-<database/>
-<serverAddress/>
-<classpath>C:\Users\admin\AppData\Local\Temp\sqljdbc_9.2\enu\mssql-jdbc-9.2.0.jre8.jar</classpath>
+  <name>Test101</name>
+  <driver>org.hsqldb.jdbcDriver</driver>
+  <username/>
+  <password/>
+  <savePassword>true</savePassword>
+  <url>jdbc:hsqldb:[PATH_TO_DB_FILES]/database</url>
+  <database/>
+  <serverAddress/>
+  <classpath>C:\Users\admin\AppData\Local\Temp\sqljdbc_9.2\enu\mssql-jdbc-9.2.0.jre8.jar</classpath>
 </jdbcDataAdapter>
 ````
+
+---
+
+## Uninstall
+* `"%ProgramFiles%\TIBCO\Jaspersoft Studio-x.y.z\uninst.exe" /S`
+
