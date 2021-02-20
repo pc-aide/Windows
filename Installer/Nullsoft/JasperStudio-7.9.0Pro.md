@@ -93,7 +93,7 @@ features/jre.win32.win32.x86_64.feature_1.8.0.u151/jre/bin
 ---
 
 ## Update
-* Automatically find new updte & notify me `%UserProfile%\eclipse\536852348_win32_win32_x86_64\p2\org.eclipse.equinox.p2.engine\profileRegistry\DefaultProfile.profile\.data\.settings\org.eclipse.equinox.p2.ui.sdk.scheduler.prefs`
+* Automatically find new updte & notify me `%UserProfile%\.eclipse\536852348_win32_win32_x86_64\p2\org.eclipse.equinox.p2.engine\profileRegistry\DefaultProfile.profile\.data\.settings\org.eclipse.equinox.p2.ui.sdk.scheduler.prefs`
 ````prefs
 eclipse.preferences.version=1
 enabled=false
