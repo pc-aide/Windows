@@ -8,6 +8,7 @@
 * [TIB_js-jrs-7.9-Support_pp472.pdf](https://docs.tibco.com/pub/js-jss/7.9.0/doc/pdf/TIB_js-jss_7.9_User-Guide.pdf?id=0)
 * [jdk8-downloads](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
 * [Download JDBC Driver for SQL Server](https://docs.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver15)
+* [Path-Jaspersoft-Studio-Workspace](https://community.jaspersoft.com/wiki/tibco-jaspersoft-studio-how-configure-non-default-path-jaspersoft-studio-workspace)
 
 ## Intro
 * Publisher: TIBCO Software Inc.
