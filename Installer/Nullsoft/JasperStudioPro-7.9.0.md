@@ -194,3 +194,9 @@ lastAutoCheckForUpdates=2021-02-19T09\:06\:13.836-0500
 ## Uninstall
 * `"%ProgramFiles%\TIBCO\Jaspersoft Studio-x.y.z\uninst.exe" /S`
 
+---
+
+## Traces
+* Traces after uninstall
+1) Traces-File-01: `"%ProgramFiles%\TIBCO\`
+2) Trace-Registries-01: ``
