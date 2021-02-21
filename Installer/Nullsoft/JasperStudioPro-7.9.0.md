@@ -76,6 +76,23 @@ features/jre.win32.win32.x86_64.feature_1.8.0.u151/jre/bin
 
 ---
 
+## Workspace
+* Default Workspace: `%UserProfile%\JaspersoftWorkspace\`
+* Change default value
+  * Edit `InstallDir\Jaspersoft Studio Professional.ini`
+    * Ln5: 
+    * Demo 
+````ini
+-data
+C:\Users\Public\JaspersoftWorkspace
+````
+
+[<img src="https://i.imgur.com/0wCpgga.png">](https://i.imgur.com/0wCpgga.png)
+[<img src="https://i.imgur.com/16gmILV.png">](https://i.imgur.com/16gmILV.png)
+[<img src="https://i.imgur.com/KeSsvEg.png">](https://i.imgur.com/KeSsvEg.png)
+
+---
+
 ## License
 * `$InstallDir\*.license`
 * evaluation
