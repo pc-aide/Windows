@@ -4,6 +4,7 @@
 * BoS - Blue of Screen
 
 ## Intro
+* Path:  `C:\windows\Minidump\<timestamp>.`
 
 ---
 
