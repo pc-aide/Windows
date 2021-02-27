@@ -149,9 +149,9 @@ type "C:\Program Files\Microsoft SQL Server\130\Setup Bootstrap\Log\Summary.txt"
 * SSMS = MS SQL Server Management Studio (Client SQL)
 * PendingReboot: yes
 ````powershell
-Start-Process .\SSMS-Setup-ENU.exe -ArgumentList "/install /quiet /noRestart /log $env:\temp\InstallSSM18.0.log"
+Start-Process .\SSMS-Setup-ENU.exe -ArgumentList "/install /quiet /noRestart /log $env:temp\InstallSSM18.0.log"
 ````
-[<img src="https://i.imgur.com/RPxYpYs.png">](https://i.imgur.com/RPxYpYs.png)
+[<img src="https://i.imgur.com/iQlkc0Q.png">](https://i.imgur.com/iQlkc0Q.png)
 [<img src="https://i.imgur.com/yLFDWca.png">](https://i.imgur.com/yLFDWca.png)
 [<img src="https://i.imgur.com/TIHaiRO.png">](https://i.imgur.com/TIHaiRO.png)
 
