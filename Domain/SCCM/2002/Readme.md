@@ -24,7 +24,8 @@
 ## Steps
 ### 01 - ADK 2004
 ````powershell
-Start-Process .\adksetup.exe -ArgumentList "/features OptionId.DeploymentTools OptionId.ImagingAndConfigurationDesigner OptionId.ICDConfigurationDesigner OptionId.UserStateMigrationTool OptionId.WindowsPerformanceToolkit /q"
+Start-Process .\adksetup.exe `
+-ArgumentList "/features OptionId.DeploymentTools OptionId.ImagingAndConfigurationDesigner OptionId.ICDConfigurationDesigner OptionId.UserStateMigrationTool OptionId.WindowsPerformanceToolkit /q"
 ````
 [<img src="https://i.ibb.co/vmPNyDx/image.png">](https://i.ibb.co/vmPNyDx/image.png)
 [<img src="https://i.ibb.co/rx97Vmf/image.png">](https://i.ibb.co/rx97Vmf/image.png)
