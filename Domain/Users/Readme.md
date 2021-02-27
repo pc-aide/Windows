@@ -46,3 +46,4 @@ foreach($User in $ListUsers){
 FirstName;LastName;UserName;PWD;OU
 Androv;Levek;levan01;Password123$_;OU=GLOVO,OU=MOSC,OU=VLAD,DC=VINO,DC=RU
 ````
+* Use: `*.ps1 *.csv`
