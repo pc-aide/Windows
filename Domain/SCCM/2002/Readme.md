@@ -103,7 +103,7 @@ add-windowsFeature rsat-ad-tools
 
 [<img src="https://i.ibb.co/PD3PVy9/image.png">](https://i.ibb.co/PD3PVy9/image.png)
 
-* `Start c:\sc_configmgr_scep_1702\smsSetup\bin\x64\extadsch.exe`
+* `Start-process c:\sc_configmgr_scep_1702\smsSetup\bin\x64\extadsch.exe`
 
 [<img src="https://i.ibb.co/hdx37j2/image.png">](https://i.ibb.co/hdx37j2/image.png)
 
