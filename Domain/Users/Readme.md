@@ -30,7 +30,7 @@ foreach($User in $ListUsers){
         New-ADUser -Name "$Firstname $LastName" -GivenName $Firstname `
             -Surname $LastName -SamAccountName $UserName `
             -AccountPassword (ConvertTo-SecureString $PWD -AsPlainText -Force) -Path $OU `
-            -Enabled $true -ChangePasswordAtLogon $false
+            -Enabled $true -ChangePasswordAtLogon $false -UserPrincipalName "$UserName@VINO.RUS"
         
         #Display confirmation
         Write-Host -ForegroundColor Green "$UserName created"
