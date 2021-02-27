@@ -40,7 +40,8 @@ type '$Env:temp\adk\C:\Users\admin\AppData\Local\Temp\adk\Windows Assessment and
 
 ### 02 - Windows Pe add-on for the ADK
 ````powershell
-Start-Process .\adkwinpesetup.exe -ArgumentList "/features OptionId.WindowsPreinstallationEnvironment /q /log $env:temp\adkWinPeSetup.log"
+Start-Process .\adkwinpesetup.exe `
+-ArgumentList "/features OptionId.WindowsPreinstallationEnvironment /q /log $env:temp\adkWinPeSetup.log"
 ````
 * Time: ~5m & 52sec
 
