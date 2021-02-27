@@ -132,7 +132,7 @@ whoami /priv | findstr /i "seBackupPrivilege sedebugPrivilege seSecurityPrivileg
 * PendingReboot: no
 * ConfigurationFile=[cfg.ini](https://github.com/pc-aide/Ini/blob/master/Cfg_MS_SQL2016.md)
 ````powershell
-SETUP.EXE /configurationFile=ConfigurationFile.ini /AGTSVCPASSWORD="pwd"  /sqlSvcPassword="pwd" /RSSVCPASSWORD="pwd"
+SETUP.EXE /configurationFile=ConfigurationFile.ini /AGTSVCPASSWORD="pwd" /sqlSvcPassword="pwd" /RSSVCPASSWORD="pwd"
 ````
 [<img src="https://i.imgur.com/2jCGWws.png">](https://i.imgur.com/2jCGWws.png)
 [<img src="https://i.imgur.com/atADmJI.png">](https://i.imgur.com/atADmJI.png)
