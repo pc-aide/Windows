@@ -202,7 +202,7 @@ Add-WindowsFeature bits, bits-iis-ext
 #Remote diff. compression + RSAT
 Add-WindowsFeature rdc, rsat-feature-tools, rsat-bits-server
 ````
-[<img src="https://i.imgur.com/tI6MImZ.png">](https://i.imgur.com/tI6MImZ.png)
+[<img src="https://i.imgur.com/wOhfck9.png">](https://i.imgur.com/wOhfck9.png)
 
 ---
 
