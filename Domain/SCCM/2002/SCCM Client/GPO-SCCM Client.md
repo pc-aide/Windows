@@ -1,6 +1,7 @@
 # GPO-SCCM Client
 
 ## Acronym
+* ACL - Access Control List
 * CCM - Client Configuration Manager
 * MP:<Server> - Management Point
 * FSP - Fallback Status Point
