@@ -86,7 +86,7 @@
 
 * Configure Configuration Manager client Deployment Settings
   * Enabled
-  * ccmSetup `ccmSetup.exe /mp:<FQDN\ smsSitecode=pr1 FSP=\<FQDN\>`
+  * ccmSetup `ccmSetup.exe /mp:<FQDN> smsSitecode=pr1 FSP=<FQDN>`
 
 
 [<img src="https://i.imgur.com/yfNkDzP.png">](https://i.imgur.com/yfNkDzP.png)
