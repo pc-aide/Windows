@@ -13,15 +13,40 @@
 
 ---
 
-## SMB
-* Host: SCCM2002
-* New Folder: SCCMClient
-* SRC: \\SCCM2002\SMS_PR1\bin\i386\ccmSetup.msi
-* Get-SmbShareAcces: Read
-* Get-ACL: BUILTIN\Users Allow ReadAndExecute, Synchronize
+## Create SMB Folder
 
-[<img src="https://i.imgur.com/r2A5VW0.png">](https://i.imgur.com/r2A5VW0.png)
-[<img src="https://i.imgur.com/vFEqy0c.png">](https://i.imgur.com/vFEqy0c.png)
+### New Folder
+* `New-Item -Type Directory -name DFS1`
+
+[<img src="https://i.imgur.com/fIkmKQ6.png">](https://i.imgur.com/fIkmKQ6.png)
+
+---
+
+### Create UNC
+* New: `New-SmbShare -Name DFS1 -Path "C:\DFS1" -FullAccess "VINO\Domain Admins"`
+
+[<img src="https://i.imgur.com/ZCosTe5.png">](https://i.imgur.com/ZCosTe5.png)
+
+---
+
+### ACL
+* Check Out: `get-acl DFS1 | fl`
+
+[<img src="https://i.imgur.com/SwVx6RB.png">](https://i.imgur.com/SwVx6RB.png)
+
+* Folder:
+  * `$acl = get-acl .\DFS1\`
+* Groups Domain Admins:
+  * `$AccessRule = New-Object System.Security.AccessControl.FileSystemAccessRule("VINO\Domain Admins","FullControl","Allow")`
+* Set:
+  * `$acl.SetAccessRule($AccessRule)`
+
+---
+
+### SmbShareAccess
+* `Grant-SmbShareAccess -Name DFS1 -AccountName "Authenticated Users"` -AccessRight -Read -Force
+
+[<img src="https://i.imgur.com/G0UuYfP.png">](https://i.imgur.com/G0UuYfP.png)
 
 ---
 
