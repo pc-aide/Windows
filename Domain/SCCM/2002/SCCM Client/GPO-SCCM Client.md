@@ -59,7 +59,6 @@
       * Select Deploy method: Assigned
     
 [<img src="https://i.imgur.com/H7QvkGY.png">](https://i.imgur.com/H7QvkGY.png)
-[<img src="https://i.imgur.com/InrC3qG.png">](https://i.imgur.com/InrC3qG.png)
 
 ---
 
