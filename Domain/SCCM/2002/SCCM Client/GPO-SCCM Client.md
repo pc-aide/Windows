@@ -65,11 +65,12 @@
 ## ConfigMgrADMTemplates
 * GPO Name: GPO-SCCM-Client
 * Edit it
-* Path: Computer\policies\administrative templates\add templates:
+* Path: Computer\policies\administrative templates\**add templates**:
   * configMgrAssignment
   * configMgrInstallation
   * SRC: \Microsoft Configuration Manager\tools\configMgrADMTemplates\
 
+[<img src="https://i.imgur.com/Ou15VJD.png">](https://i.imgur.com/Ou15VJD.png)
 [<img src="https://i.imgur.com/sMuf1gn.png">](https://i.imgur.com/sMuf1gn.png)
 [<img src="https://i.imgur.com/ThE9WS7.png">](https://i.imgur.com/ThE9WS7.png)
 
