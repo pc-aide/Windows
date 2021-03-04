@@ -1,6 +1,6 @@
 # Registry.Pol Viewer
 
-## Intor
+## Intro
 * Settings = GPOName = *.pol
 
 ---
