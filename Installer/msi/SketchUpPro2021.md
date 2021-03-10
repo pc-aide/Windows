@@ -150,6 +150,17 @@ Orca\Transform\Generate Transform...
 
 [<img src="https://i.imgur.com/zxfFZ0Q.png">](https://i.imgur.com/zxfFZ0Q.png)
 
+---
+
+### OpenGL
+* by default, Sketchup take gpu on pcie
+* eg.
+  *  nvidia | GeForce GTX 1060 | GL ver 4.5.0 nividia 376.33
+
+[<img src="https://i.imgur.com/of5A7ar.png">](https://i.imgur.com/of5A7ar.png)
+
+---
+
 ### Hyper-v (1909):
   * RemoteFX 3D Video gone
   * if we have GPU compatible with RemoteFX - Try Out: `Add-VMRemoteFx3dVideoAdapter -VMName [vm_name]`
