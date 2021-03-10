@@ -159,6 +159,10 @@ Orca\Transform\Generate Transform...
 
 [<img src="https://i.imgur.com/of5A7ar.png">](https://i.imgur.com/of5A7ar.png)
 
+#### nvidia
+
+[<img src="https://i.imgur.com/Ii6OaGU.png">](https://i.imgur.com/Ii6OaGU.png)
+
 ---
 
 ### Hyper-v (1909):
