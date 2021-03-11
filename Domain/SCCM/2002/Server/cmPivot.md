@@ -1,13 +1,13 @@
 # cmPivot
 
 ## Intro
-* the tool use RPC, so if the host i'ts not reachable, we can't use this utility from Console SCCM
+* The tool use RPC, so if the host i'ts not reachable, we can't use this utility from Console SCCM
 
 ---
 
 ## Shortcut key
-1) F5 - run
-2) ESC - stop
+1) F5 - Run
+2) ESC - Stop
 
 ---
 
