@@ -4,5 +4,6 @@
 ## Software
 ````sql
 InstalledSoftware  
-| where (ProductName like '%acrobat%' or ProductName like '%sketchup%') 
+| where (ProductName like '%acrobat%' 
+or ProductName like '%sketchup%') 
 ````
