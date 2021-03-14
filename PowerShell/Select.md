@@ -26,7 +26,7 @@ select @{N='InstallDate'; E={[DateTime]::ParseExact($_.InstallDate,'ddmmyyyy',$n
 [<img src="https://i.imgur.com/Ozf3pmu.png">](https://i.imgur.com/Ozf3pmu.png)
 
 ### 3 - ManagementDateTimeConverter
-`````powershell
+````powershell
 $query = "Select * from Win32_NTLogEvent Where Logfile='Application'"
 $message = "*C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE*"
 
