@@ -34,6 +34,6 @@
 
 ### 03 - Folders
 ````powershell
-Get-WmiObject Win32_Directory -ComputerName 10.236.1.13 -filter 'Drive="C:" and Path="\\users\\"' | 
+Get-WmiObject Win32_Directory -ComputerName 10.56.0.1 -filter 'Drive="C:" and Path="\\users\\"' | 
 ft name 
 ````
